@@ -56,6 +56,9 @@
     color: white;
     font-size: 18px;
   }
+   imput[type="button"]:hover{
+    color: rgba(0,0,0,0.5);
+    transition: 0.15s ;
   p {
     text-align: center;
     padding-top: 20px;
