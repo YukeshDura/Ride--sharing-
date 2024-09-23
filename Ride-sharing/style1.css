@@ -7,7 +7,7 @@
     width: 360px;
     height: 620px;
     margin: auto;
-    background-color: white;
+    background-color:white;
     border-radius: 3px;
   }
   
@@ -47,7 +47,7 @@
     border-radius: 6px;
     outline: none;
   }
-  input[type="button"] {
+  input[type="submit"] {
     width: 320px;
     height: 35px;
     margin-top: 20px;
@@ -56,9 +56,10 @@
     color: white;
     font-size: 18px;
   }
-   imput[type="button"]:hover{
-    color: rgba(0,0,0,0.5);
+  input[type="submit"]:hover{
+    background-color: rgba(255, 0, 0, 0.5);
     transition: 0.15s ;
+  }
   p {
     text-align: center;
     padding-top: 20px;
@@ -71,5 +72,6 @@
     margin-top: -10px;
   }
   .para-2 a {
-    color: #49c1a2;
+    color: #f60f0f;
+    padding-top:8;
   }</span>
